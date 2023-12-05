@@ -7,7 +7,7 @@ cd 10719-partial-update
 conda env create --file environment.yml
 ```
 ### Running the experiments
-The experiments in our report are ran by `scripts/run_FedAvg.py` and `scripts/run_PU.py`.
+The experiments in our report are run by `scripts/run_FedAvg.sh` and `scripts/run_PU.sh`.
 
 
 ### Credits
